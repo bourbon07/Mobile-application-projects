@@ -4,10 +4,8 @@ This repository features a range of professional mobile application projects dev
 
 ---
 
-## 👤 Developer
-**Fawaz Allan**
-
 ---
+
 
 ## 🚀 Featured Projects
 
@@ -29,6 +27,10 @@ A luxury EV charging guidance app with a marble-themed UI, real-time bay allocat
 
 ---
 
-## 📬 Contact
-Developed by **Fawaz Allan**. 
-Feel free to explore the individual project folders for more details.
+## 👨‍💻 Developed By
+
+**Fawaz Allan**  
+**Flutter & Mobile App Developer**  
+*Expertise in Flutter, Dart, Riverpod, and API Integration.*
+
+📧 [Gmail](mailto:fwzallan@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/fawaz-allan-188717247/)

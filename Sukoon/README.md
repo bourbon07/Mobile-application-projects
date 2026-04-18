@@ -4,10 +4,8 @@
 
 ---
 
-## 👤 Developer
-**Fawaz Allan**
-
 ---
+
 
 ## ✨ Features
 
@@ -83,5 +81,10 @@ assets/
 
 ---
 
-## 📄 License
-Developed by Fawaz Allan.
+## 👨‍💻 Developed By
+
+**Fawaz Allan**  
+**Flutter & Mobile App Developer**  
+*Expertise in Flutter, Dart, Riverpod, and API Integration.*
+
+📧 [Gmail](mailto:fwzallan@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/fawaz-allan-188717247/)
